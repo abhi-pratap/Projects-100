@@ -1,0 +1,20 @@
+.flex{
+    display:flex ;
+    align-items: center;
+}
+.conatiner{
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    margin-top: 4%;
+}
+.login-form{
+    width: 57vw;
+    height: 60vw;
+    justify-content: center;
+    background:linear-gradient(45deg, pink, blue);
+
+}
+.information{
+    border: 2px solid white;
+}
